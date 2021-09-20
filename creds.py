@@ -5,13 +5,13 @@ class Creds():
     
     
     #  Make Sure You Are Providing both value if you need Teamdrive upload
-    # Because of pydrive And pydrive v2 Api
+    # Because of pydrive And pydrive v2 Api 0ADC73H-kxQ2HUk9PVA
     
     #Folder Id Of Teamdrive
-    TEAMDRIVE_FOLDER_ID = "1on7R-lqJPfb3_a18abR-OGPgbqgvy12T"
+    TEAMDRIVE_FOLDER_ID = "0ADC73H-kxQ2HUk9PVA"
     
     # Id of Team drive 
-    TEAMDRIVE_ID = "0ADC73H-kxQ2HUk9PVA"
+    TEAMDRIVE_ID = "1on7R-lqJPfb3_a18abR-OGPgbqgvy12T"
     
     
     
