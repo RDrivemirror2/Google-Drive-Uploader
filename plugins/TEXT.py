@@ -6,7 +6,7 @@ drive_folder_name = "RDriveUploaderBot"
 
 # Enter Your Mega email And Pass (Required)
 MEGA_EMAIL = "rdrivemirror@gmail.com"
-MEGA_PASSWORD = "rdrivemirror@gmail.com"
+MEGA_PASSWORD = "Rkt@12345"
 
 
 START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @Nothings_her3"
